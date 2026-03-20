@@ -1,0 +1,20 @@
+{
+  "name": "起来动一动",
+  "short_name": "动一动",
+  "start_url": "/sit-reminder/",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#e8ff47",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/0d0d0d/e8ff47?text=动",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/0d0d0d/e8ff47?text=动",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
